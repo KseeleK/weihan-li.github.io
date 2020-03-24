@@ -83,11 +83,11 @@ author:
   name             : "Weihan Li"
   avatar           : "profile.png"
   bio              : 
-  location         : "Hangzhou,China"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "weihanli@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/KseeleK"
   google_plus      :
   keybase          :
   instagram        :
